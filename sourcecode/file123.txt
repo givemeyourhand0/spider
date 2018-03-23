@@ -1,0 +1,4 @@
+CrawlerHanZhongGov 汉中市人民政府 http://www.hanzhong.gov.cn/ http://www.hanzhong.gov.cn/.* http://www.hanzhong.gov.cn/xwzx/.* HanZhongGovImage HanZhongGovHtmlSource
+CrawlerBaQiaoGov 西安市灞桥区人民政府 http://www.baqiao.gov.cn/ http://www.baqiao.gov.cn/.* http://www.baqiao.gov.cn/info/news/.*htm BaQiaoGovImage BaQiaoGovHtmlSource
+CrawlerXianYangGov 咸阳市人民政府 http://www.xianyang.gov.cn/ http://www.xianyang.gov.cn/.* http://www.xianyang.gov.cn/xyxw/.* XianYangGovImage XianYangGovHtmlSource
+CrawlerTongChuanGov 铜川市人民政府 http://www.tongchuan.gov.cn/ http://www.tongchuan.gov.cn/.* http://www.tongchuan.gov.cn/html/zxzx/tcyw.* TongChuanGovImage TongChuanGovHtmlSource 

@@ -1,0 +1,11 @@
+﻿CrawlerShaanXiGov 陕西省人民政府 http://www.shaanxi.gov.cn/ http://www.shaanxi.gov.cn/.* http://www.shaanxi.gov.cn/(sxxw|jbyw|info|gk).*\.htm ShaanXiGovImage ShaanXiGovHtmlSource
+CrawlerXiAnGov 西安市人民政府 http://www.xian.gov.cn/ http://www.xian.gov.cn/.* http://www.xian.gov.cn/ptl/def/def.*\.html XiAnGovImage XiAnGovHtmlSource
+CrawlerXianYangGov 咸阳市人民政府 http://www.xianyang.gov.cn/ http://www.xianyang.gov.cn/.* http://www.xianyang.gov.cn/xyxw/.* XianYangGovImage XianYangGovHtmlSource 
+CrawlerBaoJiGov 宝鸡市人民政府 http://www.baoji.gov.cn/ http://www.baoji.gov.cn/.* http://www.baoji.gov.cn/site/(1|11)/html/.*\.htm BaoJiGovImage BaoJiGovHtmlSource
+CrawlerHanZhongGov 汉中市人民政府 http://www.hanzhong.gov.cn/ http://www.hanzhong.gov.cn/.* http://www.hanzhong.gov.cn/(xwzx|xxgk|tzhz|lyhz)/.*\.html HanZhongGovImage HanZhongGovHtmlSource
+CrawlerWeiNanGov 渭南市人民政府 http://www.weinan.gov.cn/ http://www.weinan.gov.cn/.* http://www.weinan.gov.cn/(news|gk|zdxxgk)/.*\.htm WeiNanGovImage WeiNanGovHtmlSource
+CrawlerAnKangGov 安康市人民政府 http://www.ak.gov.cn/ http://www.ak.gov.cn/.* http://www.ak.gov.cn/Content.*\.html AnKangGovImage AnKangGovHtmlSource
+CrawlerYuLinGov 榆林市人民政府 http://www.yl.gov.cn/ http://www.yl.gov.cn/.* http://www.yl.gov.cn/site/1/html/.*\.htm YuLinGovImage YuLinGovHtmlSource
+CrawlerShangLuoGov 商洛市人民政府 http://www.shangluo.gov.cn/ http://www.shangluo.gov.cn/.* http://www.shangluo.gov.cn/info/.*\.htm ShangLuoGovImage ShangLuoGovHtmlSource
+CrawlerYanAnGov 延安市人民政府 http://www.yanan.gov.cn/ http://www.yanan.gov.cn/.* http://www.yanan.gov.cn/(xwzx|gk|info)/.*\.htm YanAnGovImage YanAnGovHtmlSource  
+CrawlerTongChuanGov 铜川市人民政府 http://www.tongchuan.gov.cn/ http://www.tongchuan.gov.cn/.* http://www.tongchuan.gov.cn/html/.*\.html TongChuanGovImage TongChuanGovHtmlSource
